@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harrison-alonso-arroyave-gaviria-4ba07b358)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harrisonarroyaveg@gmail.com)
 
-**Software Developer | AI/ML • LLMs • Chatbots • Python • Vue.js • DevOps | Machine Learning**
+**Systems Engineer | Software Development • AI/ML • LLMs • Chatbots | Python • DevOps**
 
 Software Development Technologist and Systems Engineering student with **3+ years of experience**  
 building scalable backend systems, automation tools, and AI-powered solutions.
