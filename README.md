@@ -9,7 +9,7 @@
 
 **Systems Engineer | Software Development • AI/ML • LLMs • Chatbots | Python • DevOps**
 
-Software Development Technologist and Systems Engineering student with **3+ years of experience**  
+Software Development Technologist and Systems Engineering student with **4+ years of experience**  
 building scalable backend systems, automation tools, and AI-powered solutions.
 
 📍 La Estrella, Antioquia, Colombia | 🌐 English (B2) & Spanish (Native)
