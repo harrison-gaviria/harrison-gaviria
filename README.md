@@ -50,6 +50,7 @@ Systems Engineer with ***4+ years of experience*** building scalable web applica
 ![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=flat&logo=rasa&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/LLMs-412991?style=flat&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/Neural_Networks-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
